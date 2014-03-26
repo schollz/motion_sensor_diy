@@ -13,10 +13,10 @@ The eagle schematics show the wiring for the Motion Sensor and the Receiver. Eac
 
 <strong>Components</strong>
 <ul>
-<li>PIR sensor</li>
-<li>PT2262 encoder</li>
-<li>ATtiny85</li>
-<li>434 MHz RF transmitter</li>
+<li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&uact=8&ved=0CDkQFjAF&url=http%3A%2F%2Fwww.mpja.com%2Fdownload%2F31227sc.pdf&ei=8FgzU868GsHLsQSTnYKIDg&usg=AFQjCNELdcZfKHaZhM4NlzFmhzu2_fOHwg&sig2=eFrgkllWo_47kU5vjeJpJA&bvm=bv.63738703,d.cWc">PIR sensor</a>, on <a href="http://www.amazon.com/HC-SR501-Sensor-Module-Pyroelectric-Infrared/dp/B007XQRKD4">Amazon</a> or <a href="http://www.ebay.com/itm/10pcs-HC-SR501-Adjust-IR-Pyroelectric-Infrared-PIR-Motion-Sensor-Detector-Module-/131028677440?pt=LH_DefaultDomain_0&hash=item1e81eaf340">Ebay</a></li>
+<li><a href="http://www.100y.com.tw/pdf_file/PT2262-IRS.PDF">PT2262 encoder</a></li>
+<li><a href="http://www.atmel.com/images/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf">ATtiny85</a></li>
+<li><a href="http://www.amazon.com/433Mhz-transmitter-receiver-your-Experiment/dp/B00AMB3NCY">434 MHz RF transmitter</a></li>
 <li>Several 500-1k Ohm resistors</li>
 <li>LED (optional)</li>
 </ul>
